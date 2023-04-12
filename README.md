@@ -31,3 +31,7 @@ Join my Azure-MLOps journey! Exploring ML training, deployment, CI/CD, monitorin
 
 - Spend 3 hours reviewing and consolidating your learning from the previous Days, revisiting documentation, tutorials, and code examples to reinforce your understanding of Azure MLOps concepts and best practices.
 - Spend additional time on areas that you feel need further clarification or practice, and seek help from online forums or communities if needed.
+
+## Learning Resources
+
+[ MLOps (v2) solution accelerator](https://github.com/Azure/mlops-v2).
