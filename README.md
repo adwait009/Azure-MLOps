@@ -35,3 +35,5 @@ Join my Azure-MLOps journey! Exploring ML training, deployment, CI/CD, monitorin
 ## Learning Resources
 
 [ MLOps (v2) solution accelerator](https://github.com/Azure/mlops-v2).
+
+[ az ml job reference documentation](https://learn.microsoft.com/en-us/cli/azure/ml/job?view=azure-cli-latest)
